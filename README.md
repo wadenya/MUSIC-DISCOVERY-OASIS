@@ -6,7 +6,6 @@ Unearthing hidden musical gems tailored to your taste.
 
  Names of Team Members:
 1. Alex Wadenya
-2. Stephen Ndunda
 
  Roles:
 1. Alex Wadenya
@@ -14,7 +13,6 @@ Unearthing hidden musical gems tailored to your taste.
      - Responsibilities: Designing the user interface, implementing interactive features, integrating with the D3.js library for musical pattern visualization, and ensuring responsive design across devices.
    Why: Alex has a keen eye for design and a strong grasp of frontend technologies, especially when it comes to crafting intuitive user interfaces and data visualization.
 
-2. :
    Role: Backend Development and Data Integration
      - Responsibilities: Setting up the server, database, integrating with the Spotify API, designing the recommendation algorithm, and ensuring data privacy and security.
    Why: Stephen possesses a solid background in backend technologies and data management, making him the ideal candidate to handle data-centric tasks, API integrations, and algorithm design.
