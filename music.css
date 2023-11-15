@@ -78,10 +78,9 @@ header h1 {
 }
 .banner h2 {
   font-size: 74px;
+  font-size: 3.1cm;
 }
-.banner h2 spam {
-  font-size: 1.9em;
-}
+
 .rights {
   position: absolute;
   left: 500px;
@@ -189,11 +188,11 @@ article {
   left: 100px;
 }
 
-article h2 {
+.rights h2 {
   color: red;
   font-size: 48px;
 }
-article p {
+.rights p {
   line-height: 1.5em;
   color: #e30707;
   font-family: "Poppins", Sans-serif;
